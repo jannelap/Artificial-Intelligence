@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Purpose of this program is to find global minima of given function (Rosenbrock function in this case) using
 particle swarm optimization. This program also plots the function and the particles.
